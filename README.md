@@ -22,5 +22,6 @@
     MAIL_FROM_NAME="${APP_NAME}" </br>
  </br>
 6 - Execute as migrations na linha de comando: php artisan migrate </br>
-7 - Inicie a aplicação: php artisan serve </br>
-8 - Acesse http://localhost:8000 </br>
+7 - Execute o storage para salvar os aquivos recebidos na linha de comando: php artisan storage:link </br>
+8 - Inicie a aplicação: php artisan serve </br>
+9 - Acesse http://localhost:8000 </br>
