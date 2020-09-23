@@ -11,7 +11,7 @@
     DB_DATABASE=netshowme </br>
     DB_USERNAME=root </br> 
     DB_PASSWORD= </br>
-    -  emai </br>
+    -  email </br>
     MAIL_DRIVER=smtp </br>
     MAIL_HOST=smtp.mailtrap.io </br>
     MAIL_PORT=2525 </br> 
